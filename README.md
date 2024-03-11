@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Vikas Bagri
-- 👀 I’m interested in building Java based applications.
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m currently working as Associate Consultant - Java in Oodles Technologies.
 - 💞️ I’m looking to collaborate on some open-source projects.
 - 📫 How to reach me: bagrivikas1998@gmail.com
 
